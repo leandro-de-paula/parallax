@@ -5,7 +5,7 @@ Instagram: https://www.instagram.com/leandrodepaula12/
 
 PARALLAX
 
-Project in FRONTEND with BOOTSTRAP for WebPage in PARALLAX
+Project in FRONTEND WebPage in PARALLAX
 
 Sobre o conceito PARALLAX:
 
